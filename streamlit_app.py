@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("deple kece")
+st.title("devan deple kece XF")
 st.write(
-    "devan XF"
+    "devan deple kecr XF"
 )
 st.image("IMG-20250520-WA0020.jpg", width=500)
